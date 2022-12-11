@@ -1,1 +1,1 @@
-# MajorProject
+# Weather App
