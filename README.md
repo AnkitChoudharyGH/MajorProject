@@ -7,7 +7,7 @@ This app provides us the real-time weather forecast including your places' tempe
 
 -Delivers accurate and up-to-date weather forecasts to help users plan their activities accordingly.
 
-TechStack used:
+**TechStack used:**
 
   -**HTML/CSS**
 
